@@ -26,34 +26,34 @@ The objectives of the mentorship should be listed down here. They can be customi
 or the mentee's preferences.
 
 - [ ] Tools
-    - [ ] Git
-    - [ ] Github
-    - [ ] IRC
+    - [x] Git
+    - [x] Github
+    - [x] IRC
     - [ ] Bug tracker
     - [ ] Wiki
-    - [ ] Linux
-    - [ ] Virtual Machines / Vbox / Vagrant
+    - [x] Linux
+    - [x] Virtual Machines / Vbox / Vagrant
 
 - [ ] Finding right project
-    - [ ] Openhub
-    - [ ] Chosing a programming language
+    - [x] Openhub
+    - [x] Chosing a programming language
     - [ ] Reading how to contribute
 
-- [ ] Learn about GSOC
-    - [ ] Structure of the program.
-    - [ ] How it works?
-    - [ ] Organizations that participated in last year
-    - [ ] What is the benefit of participating in GSOC?
-    - [ ] Timeline and important dates.
+- [x] Learn about GSOC
+    - [x] Structure of the program.
+    - [x] How it works?
+    - [x] Organizations that participated in last year
+    - [x] What is the benefit of participating in GSOC?
+    - [x] Timeline and important dates.
 
 - [ ] Getting started
-    - [ ] Finding right organisation.
+    - [x] Finding right organisation.
     - [ ] Selecting a project.
     - [ ] Setting up development stack.
-    - [ ] Joining mailing-list, IRC and communicating with organization.
+    - [x] Joining mailing-list, IRC and communicating with organization.
 
 - [ ] Making first contribution
-    - [ ] Finding an issue.
+    - [x] Finding an issue.
     - [ ] Submitting code.
 
 - [ ] Creating presence in open source world
