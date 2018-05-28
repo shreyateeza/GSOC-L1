@@ -34,10 +34,10 @@ or the mentee's preferences.
     - [x] Linux
     - [x] Virtual Machines / Vbox / Vagrant
 
-- [ ] Finding right project
+- [x] Finding right project
     - [x] Openhub
     - [x] Chosing a programming language
-    - [ ] Reading how to contribute
+    - [x] Reading how to contribute
 
 - [x] Learn about GSOC
     - [x] Structure of the program.
@@ -46,20 +46,20 @@ or the mentee's preferences.
     - [x] What is the benefit of participating in GSOC?
     - [x] Timeline and important dates.
 
-- [ ] Getting started
+- [x] Getting started
     - [x] Finding right organisation.
-    - [ ] Selecting a project.
-    - [ ] Setting up development stack.
+    - [x] Selecting a project.
+    - [x] Setting up development stack.
     - [x] Joining mailing-list, IRC and communicating with organization.
 
-- [ ] Making first contribution
+- [x] Making first contribution
     - [x] Finding an issue.
-    - [ ] Submitting code.
+    - [x] Submitting code.
 
 - [ ] Creating presence in open source world
-    - [ ] Blogging
-    - [ ] Twitter
-    - [ ] Joining community / Champion a cause.
+    - [x] Blogging
+    - [x] Twitter
+    - [x] Joining community / Champion a cause.
     - [ ] Other opportunities.
 
 ## Progress Tracking
